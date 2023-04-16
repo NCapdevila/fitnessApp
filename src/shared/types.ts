@@ -10,3 +10,9 @@ export interface BenefitType{
     title: string;
     description: string;
 }
+/* Para realizar un atributo como opcional se agrega ? */
+export interface ClassType{
+    name: string;
+    description?: string;
+    image: string;
+}
