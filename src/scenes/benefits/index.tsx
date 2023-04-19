@@ -11,17 +11,17 @@ const  benefits: Array<BenefitType> = [
     {
         icon: <HomeModernIcon className="h-6 w-6" />,
         title: "State of the Art Facilities",
-        description: "Neque adipiscing amet amet enim. Feugiat dolor enim fermentum in a in lectus pellentesque. Ullamcorper et."
+        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. A dolorum delectus explicabo provident? Dicta sapiente repudiandae maxime voluptates, voluptate quae fuga ducimus error alias at facilis aspernatur dolore omnis repellendus!"
     },
     {
         icon: <UserGroupIcon className="h-6 w-6" />,
         title: "100's of Diverse Classes",
-        description: "Eu ipsum id egestas risus tempus enim semper felis quis. Nec consectetur ac venenatis facilisi est. Eget ac turpis id."
+        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. A dolorum delectus explicabo provident? Dicta sapiente repudiandae maxime voluptates, voluptate quae fuga ducimus error alias at facilis aspernatur dolore omnis repellendus!"
     },
     {
         icon: <AcademicCapIcon className="h-6 w-6" />,
         title: "Expert and Pro Trainers",
-        description: "Fusce vestibulum aliquam ut cras. Nisl lectus egestas sapien nisl. Lacus at mi sit pellentesque. Congue parturient."
+        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. A dolorum delectus explicabo provident? Dicta sapiente repudiandae maxime voluptates, voluptate quae fuga ducimus error alias at facilis aspernatur dolore omnis repellendus!"
     }
 ]
 
@@ -130,18 +130,10 @@ const Benefits = ({setSelectedPage}: Props) => {
                     }}
                     >
                         <p className="my-5">
-                        Nascetur aenean massa auctor tincidunt. Iaculis potenti amet
-                        egestas ultrices consectetur adipiscing ultricies enim. Pulvinar
-                        fames vitae vitae quis. Quis amet vulputate tincidunt at in
-                        nulla nec. Consequat sed facilisis dui sit egestas ultrices
-                        tellus. Ullamcorper arcu id pretium sapien proin integer nisl.
-                        Felis orci diam odio.
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. A dolorum delectus explicabo provident? Dicta sapiente repudiandae maxime voluptates, voluptate quae fuga ducimus error alias at facilis aspernatur dolore omnis repellendus!
                         </p>
                         <p className="mb-5">
-                        Fringilla a sed at suspendisse ut enim volutpat. Rhoncus vel est
-                        tellus quam porttitor. Mauris velit euismod elementum arcu neque
-                        facilisi. Amet semper tortor facilisis metus nibh. Rhoncus sit
-                        enim mattis odio in risus nunc.
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, quam amet facilis veritatis voluptas fuga! Dolores ducimus officiis itaque in voluptatibus voluptate, laborum tenetur vero nobis, vel temporibus eveniet error.
                         </p>
                     </motion.div>
                     {/* Button */}

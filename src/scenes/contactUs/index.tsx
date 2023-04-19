@@ -44,9 +44,7 @@ return (
                     TO GET IN SHAPE
                 </HText>
                 <p className="mt-5">
-                Congue adipiscing risus commodo placerat. Tellus et in feugiat nisl
-                sapien vel rhoncus. Placerat at in enim pellentesque. Nulla
-                adipiscing leo egestas nisi elit risus sit. Nunc cursus sagittis.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate quas ut ullam eius facere, recusandae eveniet doloremque molestiae ab mollitia libero, magnam iusto. Nisi, adipisci esse mollitia aut ea corporis?
                 </p>
             </motion.div>
 
